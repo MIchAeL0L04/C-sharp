@@ -1,0 +1,10 @@
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\bin\Debug\MediaDuasNotas.exe.config
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\bin\Debug\MediaDuasNotas.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\bin\Debug\MediaDuasNotas.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.Form1.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Leonardo e Michael\PA - Jota\Media Duas Notas IF\MediaDuasNotas\MediaDuasNotas\obj\Debug\MediaDuasNotas.pdb
