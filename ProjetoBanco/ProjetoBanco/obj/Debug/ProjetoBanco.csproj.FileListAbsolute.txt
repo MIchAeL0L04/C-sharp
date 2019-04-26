@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Form1.resources
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Properties.Resources.resources
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+C:\Users\Micha\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
